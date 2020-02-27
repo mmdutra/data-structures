@@ -6,7 +6,6 @@ public class Stack {
 	private int[] items;
 	private int quantity;
 	
-	
 	public Stack() {
 		this.items = new int[this.maximum];
 		this.quantity = -1;
